@@ -1,11 +1,11 @@
-#Technical Test : Api Rest with Authorization and Authentication. Our client is HomeForGuest
+# Technical Test : Api Rest with Authorization and Authentication. Our client is HomeForGuest
 
-#Version
+# Version
 + IDE: Visual Studio Community 2022
 + SQL: SQL Server Management Studio
-##.NET Version Used
+## .NET Version Used
 + .NET 6.0
-#Package Used
+# Package Used
 + Microsoft.AspNetCore.JwtBearer version=6.0.9
 + Microsoft.EntityFrameworkCore version=7.0.11
 + Microsoft.EntityFrameworkCore.Design version=7.0.11
@@ -15,7 +15,7 @@
 + Newtonsoft.Json version=13.0.3
 + Swashbucle.AspNetCore version=6.5.0
 
-#Instalation
+# Instalation
 The installation of this project is simple. By simply executing the project, the packages required for the project execution are installed. 
 
 For this project it is necessary to make migrations for the database since it is based on Code First.
@@ -29,7 +29,7 @@ Once it is finished, we must update the database
 `PM> dotnet ef database update`
 With this, we already have the database updated.
 
-#Instalación (Español)
+# Instalación (Español)
 La instalación de este proyecto es sencilla. Simplemente ejecutando el proyecto se instalan los paquetes necesarios para la ejecución del mismo. 
 
 Para este proyecto es necesario hacer migraciones para la base de datos ya que está basado en Code First.
